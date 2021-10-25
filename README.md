@@ -87,6 +87,7 @@ En base a el testeo de usabilidad decidimos hacer los siguientes cambios en nues
 ## Acceso a la plataforma
 
 Para que puedas ingresar o visualizar nuestro proyecto solo basta con hacer click en el link que te dejaremos a continuación desde tu dispositivo:
+https://macarenarivera.github.io/SCL018-data-lovers/src/
 
 
 
