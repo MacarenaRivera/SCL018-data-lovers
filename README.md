@@ -92,7 +92,7 @@ https://macarenarivera.github.io/SCL018-data-lovers/src/
 
 ## Creadoras
 
-* Alenjandra Maureira
+* Alejandra Maureira
 * Macarena Rivera
 
 
