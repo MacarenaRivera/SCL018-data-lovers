@@ -28,13 +28,13 @@ Como mencionamos anteriormente a través de una encuesta que realizamos obtuvimo
 
 # Historias de Usuario
 
-A continuación detallaremos 3 historias de usuarios que elegimos para la construcción de nuestra página:
+A continuación detallamos 3 historias de usuarios que elegimos para la construcción de nuestra página:
 
-HU1 - Yo como usuario novato quiero ver la lista de Pokemones, para saber cuales me pueden interesar o conocerlos.
+**HU1** - *Yo como usuario novato quiero ver la lista de Pokemones, para saber cuales me pueden interesar o conocerlos.
 
-HU2 - Yo como usuario conocedor de Pokémon, me gustaría filtrar la información por nombre/número - elemento/categoría.
+**HU2** - *Yo como usuario conocedor de Pokémon, me gustaría filtrar la información por nombre/número - elemento/categoría.
 
-HU3 - Yo como usuario regular, prefiero ver la información con despliegue de cartas Pokémon.
+**HU3** - *Yo como usuario regular, prefiero ver la información con despliegue de cartas Pokémon.
 
 
 # UX
@@ -81,14 +81,19 @@ En base a el testeo de usabilidad decidimos hacer los siguientes cambios en nues
 
  # Página web
 
- En nuestra página podrás encontrar una breve introducción sobre el mundo Pokémon junto con una barra de navegación, la cual contiene los filtros de sort by (A-Z y Z-A), Elements (Tipos), Search (input de búsqueda) y official page (link a la página oficial). Además se desplegan los 251 tipos de Pokemones, en el cual al poner el cursor sobre uno de ellos tendrás la opción de conocer más información sobre ellos.
+ En nuestra página podrás encontrar una breve introducción sobre el mundo Pokémon junto con una barra de navegación, la cual contiene los filtros de sort by (A-Z y Z-A), Elements (Tipos), Search (input de búsqueda) y official page (link a la página oficial). Además se desplegan los 251 tipos de Pokémones, en el cual al poner el cursor sobre uno de ellos tendrás la opción de conocer más información.
 
 
-## Acceso a la plataforma
+## Link
 
 Para que puedas ingresar o visualizar nuestro proyecto solo basta con hacer click en el link que te dejaremos a continuación desde tu dispositivo:
 https://macarenarivera.github.io/SCL018-data-lovers/src/
 
+
+## Creadoras
+
+* Alenjandra Maureira
+* Macarena Rivera
 
 
 
